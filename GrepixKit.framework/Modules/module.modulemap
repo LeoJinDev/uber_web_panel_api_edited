@@ -1,0 +1,6 @@
+framework module GrepixKit {
+  umbrella header "GrepixKit.h"
+
+  export *
+  module * { export * }
+}

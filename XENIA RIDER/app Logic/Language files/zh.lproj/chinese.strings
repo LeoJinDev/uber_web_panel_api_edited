@@ -1,0 +1,78 @@
+/* 
+  chinese.strings
+  SKUBER RIDER
+
+  Created by Devineer on 25/10/17.
+  Copyright © 2017 Grepixit. All rights reserved.
+*/
+
+
+"HelloKey" = "你好";
+"Profile" = "轮廓";
+"Trip_History" = "旅行历史";
+"Logout" = "登出";
+"Rating" = "评分";
+"Availability On" = "可用性";
+"Availability Off" = "可用性关闭";
+"Profile Updated" = "档案已成功更新.";
+"Password Updated" = "密码已成功更新.";
+"Password alert" = "请输入有效的密码.";
+"Password_old_alert" = "请输入旧密码.";
+"password not matching" = "密码不匹配.";
+"warning"="警告!";
+"email_invalid_error"="电子邮件或密码不应为空.";
+"invalid_email"="请输入有效的邮件.";
+"login_error_message"="请输入有效的电子邮件和密码.";
+"alert_ok"="好";
+"loading"="载入中..."; "forgot_password_link"="我们已经在您的电子邮件中发送了一个临时密码.";
+"Invalid Email Id."=" 电子邮件ID无效.";
+"network_error"="互联网不可用";
+"Network Error"="网络错误";
+"User is not found"="找不到用户";
+"Alert !"=" 警报!";
+
+"password must be atleast 6 character long."=" 密码必须至少为6个字符.";
+"logout_alert_message"="你想现在退出吗？";
+"Yes"="是";
+"No"="没有";
+"No Cars Available"="没有汽车可用";
+"Cars Available"="可用汽车";
+"Please Enter Destination address"="请输入目的地址";
+"No Driver Found"="找不到司机";
+"Please select address inside the country."=" 请选择国内的地址.";
+"Worng Destination Address."=" 目的地址错误.";
+"Loading Route..."=" 载入中...";
+"min"="最低";
+"document_verification"= "您的文件正在验证中。请等一段时间.";
+"firstname_alert"="请输入您的名字.";
+"lastname_alert"="请输入您的姓氏。.";
+"mobile_alert"="请输入有效的手机号码。.";
+"MESSAGE_REJECTED"= "司机拒绝了出租车的要求。";
+"MESSAGE_ACCEPTED"= "您的出租车要求得到确认";
+"MESSAGE_END"=      "你的旅程结束了.";
+"MESSAGE_ARRIVE"=      "出租车即将抵达.";
+"MESSAGE_BEGIN"=      "你的旅程已经开始了.";
+"MESSAGE_DRIVER_CANCEL" =      "司机已取消行程.";
+
+"MESSAGE_PAID"=      "你已经付费了.";
+"MESSAGE_CASH"=      "请从Rider收取现金.";
+"MESSAGE_PAYPAL"=      "骑手通过贝宝付款";
+"write_reason"=      "请写一个理由.";
+"permission_denied"=      "应用权限被拒绝.";
+"location_turn_on"=      "要重新启用，请转到设置，并为此应用程序打开位置服务。";
+"Something_went_Wrong"=      "出了些问题";
+"Contact Service Provider" = "您已达到每日查询限制。请联系您的服务提供商。";
+"Terms_Conditions" = "使用条款";
+"Share" = "分享";
+"Deactivate_Acc" = "停用";
+"Url_Cannot_Open" = "网址现在无法打开";
+"Support" = "支持";
+"Config_Mail" = "请配置您的电子邮件";
+"trip_status" = "旅行状态";
+"Cash_On_Hand" = "现金";
+"CREDIT_CARD" = "用信用卡付款";
+"Deactivate_Alert" = "你要停用你的账户吗？";
+"No_Call_Facility" = "您的设备没有通话设施.";
+"Unmatch Country"="取货地点必须相同";
+"pay_with" = "使用。。。支付";
+"Email_Error" ="请输入有效的电子邮件.";

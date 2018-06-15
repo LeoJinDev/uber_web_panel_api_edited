@@ -1,0 +1,354 @@
+
+/* Class = "UILabel"; text = "Driver ID"; ObjectID = "02k-ep-w3w"; */
+"02k-ep-w3w.text" = "드라이버 ID ";
+
+/* Class = "UILabel"; text = "OR SIGN UP WITH"; ObjectID = "0rB-LT-8gq"; */"0rB-LT-8gq.text" = "또는 함께 사인하십시오";
+
+/* Class = "UILabel"; text = "Your  Current Location"; ObjectID = "21i-Re-eWT"; */
+"21i-Re-eWT.text" = "현재 위치 ";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "3ed-zu-8KP"; */
+"3ed-zu-8KP.placeholder" = "암호 ";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "3gy-30-ErD"; */
+"3gy-30-ErD.normalTitle" = "버킷 ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3lZ-OS-r73"; */
+"3lZ-OS-r73.text" = "상표 ";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "3qX-I2-N4r"; */
+"3qX-I2-N4r.normalTitle" = "다음 ";
+
+/* Class = "UILabel"; text = "Amount Paid"; ObjectID = "4DO-Ag-egv"; */
+"4DO-Ag-egv.text" = "금액 지급 ";
+
+/* Class = "UITextField"; placeholder = "LAST NAME"; ObjectID = "4TH-wI-7jX"; */
+"4TH-wI-7jX.placeholder" = "성 ";
+
+/* Class = "UISegmentedControl"; 5AB-L4-tJB.segmentTitles[0] = "Mock"; ObjectID = "5AB-L4-tJB"; */"5AB-L4-tJB.segmentTitles[0]" = "모조품 ";
+
+/* Class = "UISegmentedControl"; 5AB-L4-tJB.segmentTitles[1] = "Sandbox"; ObjectID = "5AB-L4-tJB"; */"5AB-L4-tJB.segmentTitles[1]" = "모래 상자 ";
+
+/* Class = "UISegmentedControl"; 5AB-L4-tJB.segmentTitles[2] = "Live"; ObjectID = "5AB-L4-tJB"; */"5AB-L4-tJB.segmentTitles[2]" = "살다 ";
+
+/* Class = "UITextField"; placeholder = "FIRST NAME"; ObjectID = "5Nv-f4-Ujk"; */
+"5Nv-f4-Ujk.placeholder" = "이름 ";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "5SB-10-CLm"; */
+"5SB-10-CLm.placeholder" = "이메일 ";
+
+/* Class = "UIButton"; normalTitle = "FACEBOOK"; ObjectID = "5mY-yf-SZ2"; */
+"5mY-yf-SZ2.normalTitle" = "FACEBOOK";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "6hk-aQ-eGw"; */
+"6hk-aQ-eGw.placeholder" = "이메일 ";
+
+/* Class = "UILabel"; text = "Pickup Minutes"; ObjectID = "7cs-HT-n6j"; */
+"7cs-HT-n6j.text" = "픽업 분 ";
+
+/* Class = "UITextField"; placeholder = "MOBILE"; ObjectID = "8CV-0w-GYK"; */
+"8CV-0w-GYK.placeholder" = "모바일";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "8Pj-1O-XGm"; */
+"8Pj-1O-XGm.normalTitle" = "가입하기 ";
+
+/* Class = "UILabel"; text = "VERIFY PROFILE"; ObjectID = "9HQ-Bg-aLl"; */
+"9HQ-Bg-aLl.text" = "프로필 확인 ";
+
+
+/* Class = "UILabel"; text = "Amount Paid"; ObjectID = "9MH-I0-xYl"; */
+"9MH-I0-xYl.text" = "금액 지급 ";
+
+/* Class = "UILabel"; text = "SOS"; ObjectID = "AG3-v0-geK"; */
+"AG3-v0-geK.text" = "SOS";
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "AHV-8H-wlX"; */
+"AHV-8H-wlX.text" = "로드 중...";
+
+/* Class = "UILabel"; text = "EMERGENCY EMAILS"; ObjectID = "AhV-9x-zt4"; */
+"AhV-9x-zt4.text" = "긴급 이메일 ";
+
+/* Class = "UIButton"; normalTitle = "HOME"; ObjectID = "B4T-iM-Eev"; */
+"B4T-iM-Eev.normalTitle" = "홈 ";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "CKy-oJ-R1U"; */
+"CKy-oJ-R1U.placeholder" = "이메일 ";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "E2M-oa-D3Z"; */
+"E2M-oa-D3Z.title" = "설정 ";
+
+/* Class = "UILabel"; text = "Please rate driver (1 for BAD & 5 for BEST)"; ObjectID = "Eoi-gk-EeL"; */"Eoi-gk-EeL.text" = "레이트 드라이버 (BAD & 1은 BEST 1) ";
+
+/* Class = "UIButton"; normalTitle = "SETTINGS"; ObjectID = "F1u-9c-fzj"; */
+"F1u-9c-fzj.normalTitle" = "설정 ";
+
+/* Class = "UIButton"; normalTitle = "FORGOT PASSWORD?"; ObjectID = "Gdt-Lt-HAa"; */"Gdt-Lt-HAa.normalTitle" = "비밀번호를 잊으 셨나요?";
+
+/* Class = "UILabel"; text = "Once you're in the car, we'll share the destination with your driver."; ObjectID = "H36-9j-bMU"; */
+"H36-9j-bMU.text" = "일단 차에 가면 목적지와 운전자를 공유합니다.";
+
+/* Class = "UIButton"; normalTitle = "RESET PASSWORD"; ObjectID = "H8u-0X-gMD"; */"H8u-0X-gMD.normalTitle" = "암호를 재설정 ";
+
+/* Class = "UILabel"; text = "THANKS FOR YOUR PATIENCE"; ObjectID = "HbM-Lv-j90"; */"HbM-Lv-j90.text" = "당신의 인내심에 감사드립니다. ";
+
+/* Class = "UIButton"; normalTitle = "JOIN "; ObjectID = "HdN-wj-sFQ"; */
+"HdN-wj-sFQ.normalTitle" = "결합 ";
+
+/* Class = "UIButton"; normalTitle = "PROMO CODE"; ObjectID = "HtL-jl-LKW"; */
+"HtL-jl-LKW.normalTitle" = "프로모션 코드 ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Ika-d6-9g3"; */
+"Ika-d6-9g3.normalTitle" = "뒤로 ";
+
+/* Class = "UIButton"; normalTitle = "Credit/Debit Card"; ObjectID = "J6U-5a-4Js"; */
+"J6U-5a-4Js.normalTitle" = " 신용 / 직불 카드 ";
+
+/* Class = "UIButton"; normalTitle = " Enter your destination"; ObjectID = "Jq5-ze-oyL"; */"Jq5-ze-oyL.normalTitle" = " 목적지 입력 ";
+
+/* Class = "UITextField"; placeholder = "LAST NAME"; ObjectID = "JqA-vi-IpY"; */
+"JqA-vi-IpY.placeholder" = "성 ";
+
+/* Class = "UILabel"; text = "Hatchback"; ObjectID = "Kjm-VH-lsN"; */
+"Kjm-VH-lsN.text" = "해치백 ";
+
+/* Class = "UILabel"; text = "Message!"; ObjectID = "LVG-j0-UMJ"; */
+"LVG-j0-UMJ.text" = "메시지!";
+
+/* Class = "UILabel"; text = "Promo Discount"; ObjectID = "M6h-Or-fcE"; */
+"M6h-Or-fcE.text" = "프로모션 할인 ";
+
+/* Class = "UITextField"; placeholder = "LAST NAME"; ObjectID = "MD2-3Z-khP"; */
+"MD2-3Z-khP.placeholder" = "성 ";
+
+/* Class = "UILabel"; text = "HIRE ME CARD"; ObjectID = "NCJ-Ue-4SS"; */
+"NCJ-Ue-4SS.text" = "XENIA CARD";
+
+/* Class = "UILabel"; text = "Fare Amount"; ObjectID = "Nfv-Fm-rxi"; */
+"Nfv-Fm-rxi.text" = "요금 금액 ";
+
+/* Class = "UILabel"; text = "FORGOT PASSWORD"; ObjectID = "OQq-ln-UU2"; */
+"OQq-ln-UU2.text" = " 비밀번호를 잊으 셨나요";
+
+/* Class = "UITextField"; placeholder = "CURRENT PASSWORD"; ObjectID = "OwY-9G-dAZ"; */"OwY-9G-dAZ.placeholder" = "현재 비밀번호 ";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "P1T-fT-rur"; */
+"P1T-fT-rur.normalTitle" = "최신 정보 ";
+
+/* Class = "UILabel"; text = "FARE REVIEW"; ObjectID = "PW6-9X-jbL"; */
+"PW6-9X-jbL.text" = "FARE REVIEW";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "Prd-8B-V3P"; */
+"Prd-8B-V3P.placeholder" = "암호 ";
+
+/* Class = "UITextField"; placeholder = "Enter Destination"; ObjectID = "Pzt-Sa-Qjs"; */"Pzt-Sa-Qjs.placeholder" = "목적지 입력 ";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "QNx-bm-mt0"; */
+"QNx-bm-mt0.placeholder" = "이메일 ";
+
+/* Class = "UILabel"; text = "show estimate"; ObjectID = "RFl-C0-2qe"; */
+"RFl-C0-2qe.text" = " 견적을 표시하다";
+
+/* Class = "UITextField"; placeholder = "EMAIL 1"; ObjectID = "RRx-uz-2dK"; */
+"RRx-uz-2dK.placeholder" = "이메일 1";
+
+/* Class = "UILabel"; text = "OR SIGN IN WITH"; ObjectID = "RSm-KC-A4P"; */
+"RSm-KC-A4P.text" = "또는 함께 서명 ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Tps-Ld-KAg"; */
+"Tps-Ld-KAg.text" = "상표 ";
+
+/* Class = "UILabel"; text = "ADD PAYMENT"; ObjectID = "VEG-ce-9z3"; */
+"VEG-ce-9z3.text" = "지불 추가 ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VLf-sM-JPK"; */
+"VLf-sM-JPK.text" = "상표 ";
+
+/* Class = "UILabel"; text = " 1 \nmin"; ObjectID = "VXQ-ch-5kQ"; */
+"VXQ-ch-5kQ.text" = " 1 \nmin";
+
+/* Class = "UILabel"; text = "Product"; ObjectID = "VvC-DZ-7bp"; */
+"VvC-DZ-7bp.text" = "생성물 ";
+
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "WHb-m2-5Ho"; */
+"WHb-m2-5Ho.normalTitle" = "완료 ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WNY-WC-iTR"; */
+"WNY-WC-iTR.text" = "상표 ";
+
+/* Class = "UITextField"; placeholder = "MOBILE"; ObjectID = "WWw-RW-xgF"; */
+"WWw-RW-xgF.placeholder" = "모바일";
+
+/* Class = "UITextField"; placeholder = "CONTACT 3"; ObjectID = "WrN-fl-z19"; */
+"WrN-fl-z19.placeholder" = "접촉 3";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "X83-5T-VAV"; */
+"X83-5T-VAV.normalTitle" = "로그인 ";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "Xsf-sd-Ryq"; */
+"Xsf-sd-Ryq.normalTitle" = "완료 ";
+
+/* Class = "UILabel"; text = "CHANGE PASSWORD"; ObjectID = "YCu-ed-mdy"; */
+"YCu-ed-mdy.text" = "비밀번호 변경 ";
+
+/* Class = "UITextField"; placeholder = "EMAIL 2"; ObjectID = "YGK-sF-TrW"; */
+"YGK-sF-TrW.placeholder" = "이메일 2";
+
+/* Class = "UILabel"; text = "Fare Amount"; ObjectID = "Yb0-Kz-5cK"; */
+"Yb0-Kz-5cK.text" = "요금 금액 ";
+
+/* Class = "UILabel"; text = "Payment Settings"; ObjectID = "Zv2-wP-Ien"; */
+"Zv2-wP-Ien.text" = "지불 설정 ";
+
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "a3Q-Gd-K7s"; */
+"a3Q-Gd-K7s.normalTitle" = "완료 ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "apv-Rj-prm"; */
+"apv-Rj-prm.text" = "상표 ";
+
+/* Class = "UILabel"; text = "Trip ID "; ObjectID = "bLG-WV-tJr"; */
+"bLG-WV-tJr.text" = "여행 ID ";
+
+/* Class = "UILabel"; text = "TRIP HISTORY"; ObjectID = "brO-gf-g97"; */
+"brO-gf-g97.text" = " 트립 역사";
+
+/* Class = "UIButton"; normalTitle = "REQUEST"; ObjectID = "caJ-tv-kTf"; */
+"caJ-tv-kTf.normalTitle" = "의뢰 ";
+
+/* Class = "UILabel"; text = "TRIP DETAIL"; ObjectID = "ceO-Ph-PU1"; */
+"ceO-Ph-PU1.text" = "여행 세부 정보 ";
+
+/* Class = "UILabel"; text = "REQUESTING"; ObjectID = "cxk-7y-axF"; */
+"cxk-7y-axF.text" = "요청 ";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "d5u-uT-lI3"; */
+"d5u-uT-lI3.normalTitle" = "제출 ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eEr-xn-W1X"; */
+"eEr-xn-W1X.text" = "상표 ";
+
+/* Class = "UILabel"; text = "DESTINATION LOCATION"; ObjectID = "edd-Kr-5Ow"; */"edd-Kr-5Ow.text" = "목적지 위치 ";
+
+
+/* Class = "UILabel"; text = "39\nmin"; ObjectID = "enu-HW-RaG"; */
+"enu-HW-RaG.text" = "39\nmin";
+
+/* Class = "UILabel"; text = "EDIT PROFILE"; ObjectID = "eqL-7X-0BG"; */
+"eqL-7X-0BG.text" = "프로필 수정 ";
+
+/* Class = "UITextField"; placeholder = "NEW PASSWORD"; ObjectID = "f9P-C8-CDI"; */"f9P-C8-CDI.placeholder" = "새 비밀번호 ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fM2-2a-JrS"; */
+"fM2-2a-JrS.text" = "상표 ";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "fwM-bl-BQe"; */
+"fwM-bl-BQe.placeholder" = "이메일 ";
+
+/* Class = "UITextField"; placeholder = "MOBILE"; ObjectID = "gdh-XN-gvD"; */
+"gdh-XN-gvD.placeholder" = "모바일";
+
+/* Class = "UILabel"; text = "Promo Discount"; ObjectID = "gzd-GN-oZC"; */
+"gzd-GN-oZC.text" = "프로모션 할인 ";
+
+/* Class = "UIButton"; normalTitle = " Alert via Facebook"; ObjectID = "h0a-2r-nRW"; */"h0a-2r-nRW.normalTitle" = " 페이스 북을 통한 경고";
+
+/* Class = "UIButton"; normalTitle = "Cancel Request"; ObjectID = "i6O-km-IGy"; */
+"i6O-km-IGy.normalTitle" = "요청 취소 ";
+
+/* Class = "UITextField"; placeholder = "EMAIL 3"; ObjectID = "iFk-Sd-jQF"; */
+"iFk-Sd-jQF.placeholder" = "이메일 3";
+
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "iGh-4k-bta"; */
+"iGh-4k-bta.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Most recent proof of payment:"; ObjectID = "iVB-5k-YHA"; */"iVB-5k-YHA.text" = "가장 최근의 지불 증명:";
+
+/* Class = "UILabel"; text = "* Please enter your email address and we'll send you a new password."; ObjectID = "j58-eY-1ZR"; */"j58-eY-1ZR.text" = "*
+이메일 주소를 입력하면 새 비밀번호를 보내드립니다";
+
+/* Class = "UILabel"; text = "FARE SUMMARY"; ObjectID = "jFI-ml-BC0"; */
+"jFI-ml-BC0.text" = "FARE SUMMARY";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "jJx-e1-D5t"; */
+"jJx-e1-D5t.normalTitle" = "버킷 ";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "jXT-v9-xB9"; */
+"jXT-v9-xB9.normalTitle" = "적용 ";
+
+/* Class = "UITextField"; placeholder = "CONTACT 2"; ObjectID = "jiB-fV-ewg"; */
+"jiB-fV-ewg.placeholder" = "접촉 2";
+
+/* Class = "UITextField"; placeholder = "CONFIRM PASSWORD"; ObjectID = "kRf-cS-Kpq"; */"kRf-cS-Kpq.placeholder" = "비밀번호 확인 ";
+
+/* Class = "UILabel"; text = "Please rate driver (1 for BAD & 5 for BEST)"; ObjectID = "kuN-qQ-4Cc"; */"kuN-qQ-4Cc.text" = "레이트 드라이버 (BAD & 1은 BEST 1) ";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "lMt-uK-Dbp"; */
+"lMt-uK-Dbp.normalTitle" = "저장";
+
+/* Class = "UIButton"; normalTitle = "FARE REVIEW"; ObjectID = "lQm-gI-5wI"; */
+"lQm-gI-5wI.normalTitle" = "FARE REVIEW";
+
+/* Class = "UILabel"; text = "No Records"; ObjectID = "leB-L3-kUh"; */
+"leB-L3-kUh.text" = "기록 없음 ";
+
+/* Class = "UILabel"; text = "Tax"; ObjectID = "leo-Se-E24"; */
+"leo-Se-E24.text" = "회비 ";
+
+/* Class = "UILabel"; text = "JOIN US"; ObjectID = "m09-SN-nTd"; */
+"m09-SN-nTd.text" = "가입하십시오. ";
+
+/* Class = "UILabel"; text = "EMERGENCY CONTACTS"; ObjectID = "mEa-q5-BZE"; */
+"mEa-q5-BZE.text" = " 비상 연락";
+
+/* Class = "UIButton"; normalTitle = " Alert via Gmail"; ObjectID = "nGb-NN-kI5"; */
+"nGb-NN-kI5.normalTitle" = "Gmail을 통한 알림 ";
+
+/* Class = "UITextField"; placeholder = "FIRST NAME"; ObjectID = "nwh-ib-3Hz"; */
+"nwh-ib-3Hz.placeholder" = "이름 ";
+
+/* Class = "UILabel"; text = "Amount Payable:"; ObjectID = "pWE-YV-HHi"; */
+"pWE-YV-HHi.text" = "지불 금액:";
+
+/* Class = "UILabel"; text = "Tax"; ObjectID = "qPw-Lh-f3n"; */
+"qPw-Lh-f3n.text" = "회비";
+
+/* Class = "UILabel"; text = "Sedan"; ObjectID = "qna-Yb-qFO"; */
+"qna-Yb-qFO.text" = "그때 ";
+
+
+/* Class = "UIButton"; normalTitle = "Alert via SMS"; ObjectID = "rjG-d9-2Fh"; */
+"rjG-d9-2Fh.normalTitle" = "SMS를 통한 경고";
+
+/* Class = "UILabel"; text = "Accept credit cards"; ObjectID = "szM-a5-1r7"; */
+"szM-a5-1r7.text" = " 신용 카드 수령";
+
+/* Class = "UITextField"; placeholder = "CONTACT 1"; ObjectID = "tbp-oA-A96"; */
+"tbp-oA-A96.placeholder" = "접촉 1";
+
+/* Class = "UILabel"; text = "Moving towards destination:"; ObjectID = "u1w-Ma-7KA"; */"u1w-Ma-7KA.text" = "목적지로 이동:";
+
+/* Class = "UILabel"; text = "Updating..."; ObjectID = "u4O-7d-ka6"; */
+"u4O-7d-ka6.text" = "업데이트 중...";
+
+/* Class = "UIButton"; normalTitle = "FACEBOOK"; ObjectID = "uqI-aG-Zq4"; */
+"uqI-aG-Zq4.normalTitle" = "페이스 북 ";
+
+/* Class = "UILabel"; text = "SIGN IN"; ObjectID = "v95-O3-BBI"; */
+"v95-O3-BBI.text" = "로그인 ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vhG-6Q-SM6"; */
+"vhG-6Q-SM6.text" = "상표 ";
+
+/* Class = "UILabel"; text = "SUV"; ObjectID = "vjA-aN-OmB"; */
+"vjA-aN-OmB.text" = "SUV";
+
+/* Class = "UITextField"; placeholder = "FIRST NAME"; ObjectID = "wHV-7s-6Of"; */
+"wHV-7s-6Of.placeholder" = "이름 ";
+
+/* Class = "UILabel"; text = "Enjoy the trip and have a safe journey."; ObjectID = "xzi-s7-a3b"; */"xzi-s7-a3b.text" = "여행을 즐기고 안전한 여행을하십시오.";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "yL0-U6-uKA"; */
+"yL0-U6-uKA.normalTitle" = "최신 정보 ";
+

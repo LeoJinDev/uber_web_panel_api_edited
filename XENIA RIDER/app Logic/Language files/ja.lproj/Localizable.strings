@@ -1,0 +1,86 @@
+/* 
+  english.strings
+  XENIA RIDER
+
+ Created by Sivilay on 25/10/17.
+ Copyright © 2017 SFYT. All rights reserved.
+*/
+
+"HelloKey" = "こんにちは";
+"Profile" = " プロフィール";
+"Trip_History" = " 旅行の歴史";
+"Logout" = "ログアウト ";
+"Rating" = "評価 ";
+"Availability On" = " 在庫状況について";
+"Availability Off" = "空室状況 ";
+"Profile Updated" = "プロフィールが正常に更新されました。";
+"Password Updated" = "パスワードが正常に更新されました。";
+"Password alert" = " 有効なパスワードを入力してください。";
+"Password_old_alert" = " 古いパスワードを入力してください。";
+"password not matching" = "パスワードが一致しません。";
+"Warning!"="警告!";
+"email_invalid_error"="電子メールまたはパスワードは空であってはいけません。";
+"invalid_email"="有効なメールアドレスを入力してください。";
+"login_error_message"="有効なメールアドレスとパスワードを入力してください。";
+"alert_ok"="OK";
+"loading"="読み込み中...";
+"forgot_password_link"="あなたの電子メールに一時的なパスワードをお送りしました。";
+"Invalid Email Id."=" 無効なメールIDです。";
+"network_error"="インターネットは利用できません ";
+"Network Error"="ネットワークエラー ";
+"User is not found"="ユーザーが見つかりません ";
+"Alert !"=" アラート!";
+"password must be atleast 6 character long."=" パスワードは少なくとも6文字でなければなりません。";
+"logout_alert_message"=" あなたは今終了しますか？";
+"Yes"=" はい";
+"No"="いいえ ";
+"No Cars Available"="利用可能な車はありません ";
+"Cars Available"="利用可能な車 ";
+"Please Enter Destination address"="宛先アドレスを入力してください";
+"No Driver Found"="ドライバが見つかりません ";
+"Please select address inside the country."="国の住所を選択してください。";
+"Worng Destination Address."="間違った宛先アドレス。";
+"Loading Route..."=" 読み込み中...";
+"min"=" 最小";
+"document_verification"= "あなたの文書は検証中です。しばらくお待ちください。";
+"firstname_alert"="あなたの名字を入力してください。";
+"lastname_alert"="あなたの姓を入力";
+"mobile_alert"=" 有効な携帯電話番号を入力してください。";
+"MESSAGE_REJECTED"= "ドライバーはタクシーのリクエストを拒否しました。";
+"MESSAGE_ACCEPTED"= "あなたのタクシーのリクエストが確認されました ";
+"MESSAGE_END"= "あなたの旅は終わった。";
+"MESSAGE_ARRIVE"= "タクシーはすぐに到着します。";
+"MESSAGE_BEGIN"=  "あなたの旅は始まった。";
+"MESSAGE_DRIVER_CANCEL"="ドライバーは旅行をキャンセルしました。";
+"MESSAGE_PAID"=      "あなたは正常に支払いました。";
+"MESSAGE_CASH"= "ライダーから現金を徴収してください。";
+"MESSAGE_PAYPAL"=      "ライダーはpaypalを通して支払っている ";
+"write_reason"=      "理由を書いてください。 ";
+"permission_denied"=      "アプリの権限が拒否されました。";
+"location_turn_on"=      "再度有効にするには、設定に移動してこのアプリの位置情報サービスをオンにしてください。";
+"Something_went_Wrong"=      " 何かが間違っていた";
+"Contact Service Provider" = "1日のクエリ制限に達しました。サービスプロバイダにお問い合わせください。";
+"Terms_Conditions" = "利用規約 ";
+"Share" = "シェア ";
+"Deactivate_Acc" = " 無効化する";
+"Url_Cannot_Open" = " URLを開くことができません";
+"Support" = "サポート ";
+"Config_Mail" = "あなたの電子メールを設定してください";
+"trip_status" = "旅行ステータス ";
+"Cash_On_Hand" = " 現金";
+"CREDIT_CARD" = "クレジットカードで支払う ";
+"Deactivate_Alert" = " アカウントを無効にしますか？";
+"No_Call_Facility" = "お使いのデバイスにコール機能はありません。";
+"Unmatch Country"="ピックアップとドロップの場所は国が同じでなければなりません ";
+"pay_with" = "支払う ";
+"Email_Error" =" 有効なメールアドレスを入力してください。";
+"SOS" ="SOS";
+"Promo Code Applied:" ="適用されるプロモーションコード：";
+"Trip_Confirmed" ="あなたの旅行依頼が確認されました。準備をする";
+"Driver_Busy" ="ドライバがビジーです。再試行する";
+"Cash_msg” =“ライダーから現金を徴収してください。";
+"Card_msg” =“ライダーはカードを通じて支払っています.";
+"CREDIT_CARD_SAVE" = "保存されたクレジットカードで支払う";
+"NO_Internet" = "インターネット接続が切断されているようです。それを確認してもう一度やり直してください。";
+
+"XeniaWallet" = "Wallet";

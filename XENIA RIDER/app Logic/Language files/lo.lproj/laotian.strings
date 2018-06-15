@@ -1,0 +1,77 @@
+/* 
+  laotian.strings
+  SKUBER RIDER
+
+  Created by Devineer on 25/10/17.
+  Copyright © 2017 Grepixit. All rights reserved.
+*/
+
+
+"HelloKey" = "ສະບາຍດີ";
+"Profile" = " ແນວ";
+"Trip_History" = " ປະຫວັດສາດການເດີນທາງ";
+"Logout" = "ອອກ​ຈາກ​ລະ​ບົບ";
+"Rating" = "ການປະເມີນຜົນ";
+"Availability On" = "ສະແດງໃຫ້ເຫັນ";
+"Availability Off" = "ຊ່ອນ";
+"Profile Updated" = "ແນວ ໄດ້ຖືກປັບປຸງ.";
+"Password Updated" = "ລະຫັດຜ່ານ ປັບປຸງໃຫ້ທັນ.";
+"Password alert" = "ກະລຸນາໃສ່ລະຫັດຜ່ານທີ່ຖືກຕ້ອງ.";
+"Password_old_alert" = "ກະລຸນາໃສ່ລະຫັດຜ່ານເກົ່າ.";
+"password not matching" = "ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ.";
+"warning"="ຄໍາເຕືອນ!";
+"email_invalid_error"="ອີເມວຫຼືລະຫັດຜ່ານບໍ່ຄວນເປົ່າຫວ່າງ";
+"invalid_email"="ກະລຸນາໃສ່ອີເມວທີ່ຖືກຕ້ອງ.";
+"login_error_message"=" ກະລຸນາໃສ່ອີເມວທີ່ຖືກຕ້ອງແລະລະຫັດຜ່ານ.";
+"alert_ok"="ຕົກ​ລົງ";
+"loading"="ອຸປະກອນການອ່ານ...";
+"forgot_password_link"="ພວກເຮົາໄດ້ສົ່ງອີເມວໃຫ້ທ່ານທີ່ມີການເຊື່ອມຕໍ່ເພື່ອປັບລະຫັດຜ່ານຂອງທ່ານ.";
+"Invalid Email Id."="ອີເມວບໍ່ຖືກຕ້ອງ.";
+"network_error"="ອິນເຕີເນັດບໍ່ມີ.";
+"Network Error"="ເຄືອຂ່າຍຄວາມຜິດພາດ.";
+"User is not found"="ບໍ່ພົບຜູ້ໃຊ້.";
+"Alert !"="ຄໍາເຕືອນ!";
+"password must be atleast 6 character long."="ລະຫັດຜ່ານຕ້ອງມີອາຍຸຢ່າງຫນ້ອຍ 6 ອັກຂະລະ.";
+"logout_alert_message"="ທ່ານຕ້ອງການອອກຈາກປະຈຸບັນບໍ?";
+"Yes"="ແມ່ນແລ້ວ";
+"No"="ຍົກເລີກ";
+"No Cars Available"="ບໍ່ມີລົດທີ່ມີຢູ່.";
+"Cars Available"="ລົດທີ່ມີຢູ່.";
+"Please Enter Destination address"="ກະລຸນາໃສ່ທີ່ຢູ່ປາຍທາງ.";
+"No Driver Found"="ບໍ່ພົບໄດເວີ.";
+"Please select address inside the country."="ກະລຸນາເລືອກທີ່ຢູ່ພາຍໃນປະເທດ.";
+"Worng Destination Address."="ຈຸດຫມາຍປາຍທາງທີ່ບໍ່ຖືກຕ້ອງ.";
+"Loading Route..."=" ອຸປະກອນການອ່ານ...";
+"min"=" ຂັ້ນຕ່ໍາ";
+"document_verification"= "ເອກະສານຂອງທ່ານຢູ່ພາຍໃຕ້ການຢັ້ງຢືນ. ກະລຸນາລໍຖ້າບາງຄັ້ງ.";
+"firstname_alert"="ກະລຸນາໃສ່ຊື່ທໍາອິດຂອງທ່ານ.";
+"lastname_alert"="ກະລຸນາໃສ່ຊື່ສຸດທ້າຍຂອງທ່ານ.";
+"mobile_alert"="ກະລຸນາໃສ່ຫມາຍເລກມືຖືທີ່ຖືກຕ້ອງຂອງທ່ານ.";
+"MESSAGE_REJECTED"= "ຄົນຂັບໄດ້ປະຕິເສດຄໍາຮ້ອງຂໍລົດແທັກຊີ່.";
+"MESSAGE_ACCEPTED"= "ການຮ້ອງຂໍລົດ taxi ຂອງທ່ານຖືກຢືນຢັນ.";
+"MESSAGE_END"=      "ການເດີນທາງຂອງທ່ານແມ່ນສໍາເລັດ.";
+"MESSAGE_ARRIVE"=      "ລົດແທັກຈະມາຮອດໃນໄວໆນີ້.";
+"MESSAGE_BEGIN"=      "ການເດີນທາງຂອງທ່ານໄດ້ເລີ່ມຕົ້ນ.";
+"MESSAGE_DRIVER_CANCEL" =      "ໄດເວີໄດ້ຍົກເລີກການເດີນທາງ.";
+"MESSAGE_PAID"=      "ທ່ານໄດ້ຈ່າຍຢ່າງສໍາເລັດຜົນ.";
+"MESSAGE_CASH"=      "ກະລຸນາເກັບເງິນຈາກຜູ້ຂັບຂີ່.";
+"MESSAGE_PAYPAL"=      "ຜູ້ຂັບຂີ່ແມ່ນຈ່າຍເງິນຜ່ານ paypal.";
+"write_reason"=      "ກະລຸນາຂຽນເຫດຜົນ.";
+"permission_denied"=      "ໃບອະນຸຍາດ App ຖືກປະຕິເສດ.";
+"location_turn_on"=      "ເພື່ອເປີດໃຫມ່, ກະລຸນາໄປທີ່ Settings ແລະເປີດບໍລິການສະຖານທີ່ສໍາລັບແອັບຯນີ້.";
+"Something_went_Wrong"=      "ບາງສິ່ງບາງຢ່າງໄດ້ຜິດ.";
+"Contact Service Provider" = "ທ່ານໄດ້ບັນລຸຂໍ້ຈໍາກັດການສອບຖາມປະຈໍາວັນຂອງທ່ານ. ກະລຸນາຕິດຕໍ່ຜູ້ໃຫ້ບໍລິການຂອງທ່ານ.";
+"Terms_Conditions" = "ເງື່ອນໄຂການນໍາໃຊ້";
+"Share" = "ການແບ່ງປັນ";
+"Deactivate_Acc" = "ປິດການໃຊ້ວຽກ";
+"Url_Cannot_Open" = "Url ບໍ່ສາມາດເປີດໄດ້ໃນປັດຈຸບັນ.";
+"Support" = "ສະຫນັບສະຫນູນ";
+"Config_Mail" = "ກະລຸນາ configure ອີເມວຂອງທ່ານ.";
+"trip_status" = "ສະຖານະພາບການເດີນທາງ";
+"Cash_On_Hand" = "ເງິນສົດ";
+"CREDIT_CARD" = "ຈ່າຍໂດຍບັດເຄດິດ";
+"Deactivate_Alert" = "ທ່ານຕ້ອງການຍົກເລີກບັນຊີຂອງທ່ານບໍ?";
+"No_Call_Facility" = "ອຸປະກອນຂອງທ່ານບໍ່ມີອຸປະກອນການໂທ.";
+"Unmatch Country"="ປະເທດຕ້ອງມີຄວາມຄືບຫນ້າສໍາລັບບ່ອນຈອດລົດແລະບ່ອນຈອດລົດ";
+"pay_with" = "ຈ່າຍດ້ວຍ";
+"Email_Error" ="ກະລຸນາໃສ່ອີເມວທີ່ຖືກຕ້ອງ.";

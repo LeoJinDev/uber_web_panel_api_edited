@@ -1,0 +1,87 @@
+/* 
+  english.strings
+  XENIA RIDER
+
+ Created by Sivilay on 25/10/17.
+ Copyright © 2017 SFYT. All rights reserved.
+*/
+
+"HelloKey" = "안녕하세요";
+"Profile" = "프로필";
+"Trip_History" = "여행기록";
+"Logout" = "로그아웃";
+"Rating" = "고객평가";
+"Availability On" = "보이기";
+"Availability Off" = "숨기기";
+"Profile Updated" = "프로필이 업데이트되였습니다.";
+"Password Updated" = "암호가 업데이트되였습니다.";
+"Password alert" = "정확한 암호를 입력하세요.";
+"Password_old_alert" = "현재 사용하고 있는 암호를 입력하세요.";
+"password not matching" = "암호가 일치하지 않습니다.";
+"Warning!"="경고!";
+"email_invalid_error"="이메일이나 암호칸은 빈칸이 될수 없습니다.";
+"invalid_email"="정확한 이메일을 입력하세요.";
+"login_error_message"="정확한 이메일과 암호를 입력하세요.";
+"alert_ok"="확인";
+"loading"="읽기중...";
+"forgot_password_link"="이메일에 임시 비밀번호를 보냈습니다.";
+"Invalid Email Id."="이메일 아이디가 일치하지 않습니다.";
+"network_error"="인터네트가 동작하지 않습니다.";
+"Network Error"="네트워크가 동작하지 않습니다.";
+"User is not found"="사용자를 찾을수 없습니다.";
+"Alert !"="경보 !";
+"password must be atleast 6 character long."="비밀번호는 최소 6자 이상이여야 합니다.";
+"logout_alert_message"="앱을 종료하시겠습니까?";
+"Yes"="예";
+"No"="아니";
+"No Cars Available"="사용하실수 있는 차량이 없습니다.";
+"Cars Available"="차량을 사용하실수 있습니다.";
+"Please Enter Destination address"="목적지 주소를 입력하십시오.";
+"No Driver Found"="드라이버가 없습니다.";
+"Please select address inside the country."="현지 주소를 선택하십시오.";
+"Worng Destination Address."="목적지 주소가 정확하지 않습니다.";
+"Loading Route..."="가도 로딩중...";
+"min"="최소";
+"document_verification"= "당신의 도큐먼트가 검토중에 있습니다. 잠시 기다려주십시오.";
+"firstname_alert"="당신의 이름을 입력해주십시오. ";
+"lastname_alert"="당신의 이름을 입력해주십시오.";
+"mobile_alert"="당신의 정확한 모바일번호를 입력해주십시오.";
+"MESSAGE_REJECTED"= "드라이버가 당신의 요청을 기각하였습니다.";
+"MESSAGE_ACCEPTED"= "당신의 요청이 수락되였습니다.";
+"MESSAGE_END"=      "당신의 택시려행이 종료되였습니다.";
+"MESSAGE_ARRIVE"=      "택시가 당신에게 인차 도착할것입니다.";
+"MESSAGE_BEGIN"=      "당신의 려행이 시작되였습니다.";
+"MESSAGE_DRIVER_CANCEL" =      "드라이버가 려행을 취소하였습니다.";
+"MESSAGE_PAID"=      "료금을 정확히 받았습니다.";
+"MESSAGE_CASH"=      "운객으로부터 료금을 받으십시오.";
+"MESSAGE_PAYPAL"=      "운객이 페이팔로 지불하고 있습니다.";
+"write_reason"=      "이유를 설명해주십시오.";
+"permission_denied"=      "앱 사용자 권한이 불충분합니다.";
+"location_turn_on"=      "모바일기정설정에서 이 앱의 로케이션 서비스를 열어주십시오.";
+"Something_went_Wrong"=      "앱동작시 오류가 발생하였습니다.";
+"Contact Service Provider" = "당신의 질문회수가 초과하였습니다. 본회사에 문의하여주십시오.";
+"Terms_Conditions" = "이용약관";
+"Share" = "앱 공유하기";
+"Deactivate_Acc" = "계정비활성화";
+"Url_Cannot_Open" = "현재 URL을 열수없습니다.";
+"Support" = "협조";
+"Config_Mail" = "당신의 이메일을 설정하십시오.";
+"trip_status" = "려행상태";
+"Cash_On_Hand" = "현금";
+"CREDIT_CARD" = "결제카드로 지불";
+"Deactivate_Alert" = "당신의 현 계정을 비활성화 하시겠습니까?";
+"No_Call_Facility" = "당신의 기기로 콜을 할수 없습니다.";
+"Unmatch Country"="본회사의 운송서비스는 라오경계내에서 지원됩니다.";
+"pay_with" = "다음의 방식으로 지불됩니다.";
+"Email_Error" ="정확한 이메일을 입력해주십시오.";
+"SOS" ="SOS";
+"Promo Code Applied:" ="프로모션 코드 적용됨:";
+"Trip_Confirmed" ="여행 요청이 확인되었습니다. 준비해";
+"Driver_Busy" ="드라이버가 사용 중입니다. 다시 시도하십시오.";
+"Cash_msg” =“라이더로부터 현금을 모으십시오.";
+"Card_msg” =“라이더가 카드를 통해 지불하고 있습니다.";
+"CREDIT_CARD_SAVE" = "저장된 신용 카드로 결제";
+"NO_Internet" = "인터넷 연결이 끊어진 것 같습니다. 그것을 확인하고 다시 시도하십시오.";
+
+"XeniaWallet" = "Wallet";
+

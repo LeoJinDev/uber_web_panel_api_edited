@@ -1,0 +1,84 @@
+/* 
+  Localizable.strings
+  TaxiDriver
+
+  Created by Appicial Taxi App Soutions on 30/06/17.
+  Copyright © 2017 Appicial Taxi App Soutions. All rights reserved.
+*/
+
+"HelloKey" = "Hello EN";
+"Profile" = "Profile";
+"Trip_History" = "Trip History";
+"Logout" = "Logout";
+"Rating" = "Rating";
+"Availability On" = "Availability On";
+"Availability Off" = "Availability Off";
+"Profile Updated" = "Profile updated Successfully.";
+"Password Updated" = "Password updated Successfully.";
+"Password alert" = "Please enter valid password.";
+"Password_old_alert" = "please enter old password.";
+"password not matching" = "password is not matching.";
+"Warning!"="Warning!";
+"email_invalid_error"="Email or passowrd should not be empty.";
+"invalid_email"="please enter valid email.";
+"login_error_message"="Please enter valid email and password.";
+"alert_ok"="OK";
+"loading"="Loading...";
+"forgot_password_link"="We’ve sent you a temporary password on your email.";
+"Invalid Email Id."="Invalid Email Id.";
+"network_error"="Internet is not available";
+"Network Error"="Network Error";
+"User is not found"="User is not found";
+"Alert !"="Alert !";
+"password must be atleast 6 character long."="password must be atleast 6 character long.";
+"logout_alert_message"="Do you want to exit now?";
+"Yes"="Yes";
+"No"="No";
+"No Cars Available"="No Cars Available";
+"Cars Available"="Cars Available";
+"Please Enter Destination address"="Please Enter Destination address";
+"No Driver Found"="No Driver Found";
+"Please select address inside the country."="Please select address inside the country.";
+"Worng Destination Address."="Wrong Destination Address.";
+"Loading Route..."="Loading...";
+"min"="min";
+"document_verification"= "Your documents are under verification. Please wait for some time.";
+"firstname_alert"="Please enter your first name.";
+"lastname_alert"="Please enter your last name.";
+"mobile_alert"="Please enter valid mobile number.";
+"MESSAGE_REJECTED"= "Driver has rejected taxi request.";
+"MESSAGE_ACCEPTED"= "Your taxi request is confirmed";
+"MESSAGE_END"=      "Your trip is finished.";
+"MESSAGE_ARRIVE"=      "Taxi will arrive soon.";
+"MESSAGE_BEGIN"=      "Your trip has started.";
+"MESSAGE_DRIVER_CANCEL" =      "Driver has cancelled trip.";
+"MESSAGE_PAID"=      "You have paid successfully.";
+"MESSAGE_CASH"=      "Please collect cash from Rider.";
+"MESSAGE_PAYPAL"=      "Rider is paying through paypal";
+"write_reason"=      "Please write a reason.";
+"permission_denied"=      "App Permission Denied.";
+"location_turn_on"=      "To re-enable, please go to Settings and turn on Location Service for this app.";
+"Something_went_Wrong"=      "Something went Wrong";
+"Contact Service Provider" = "You have reached your daily query limit. Please contact your service provider.";
+"Terms_Conditions" = "Terms of Use";
+"Share" = "Share";
+"Deactivate_Acc" = "Deactivate";
+"Url_Cannot_Open" = "Url cannot be opened now";
+"Support" = "Support";
+"Config_Mail" = "Please configure your email";
+"trip_status" = "Trip Status";
+
+"Cash_On_Hand" = "Cash";
+"CREDIT_CARD" = "Pay by Credit Card";
+"Deactivate_Alert" = "Do you want to deactivate your account?";
+"No_Call_Facility" = "Your device do not have call facility.";
+"Unmatch Country"="Country must be same for pickup and drop location";
+"pay_with" = "Pay with";
+"Email_Error" ="Please enter valid email.";
+"SOS" ="SOS";
+"Promo Code Applied:" ="Promo Code Applied:";
+"Trip_Confirmed" ="Your Trip Request has been confirmed. Get Ready";
+"Driver_Busy" ="Driver is busy. Try again";
+
+
+

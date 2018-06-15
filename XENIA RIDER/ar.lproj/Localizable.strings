@@ -1,0 +1,83 @@
+/*
+ Localizable.strings
+ SKUBER RIDER
+ 
+ Created by Appicial Taxi App Soutions on 16/06/17.
+ Copyright © 2017 Appicial Taxi App Soutions. All rights reserved.
+ */
+"HelloKey" = " مرحبا";
+"Profile" = "الملف الشخصي";
+"Trip_History" = "تاريخ الرحلة";
+"Logout" = "الخروج";
+"Warning!"="تحذير!";
+"email_invalid_error"="يجب ألا يكون البريد الإلكتروني أو باسورد فارغا.";
+"invalid_email"="الرجاء إدخال بريد إلكتروني صحيح.";
+"login_error_message"="الرجاء إدخال بريد إلكتروني وكلمة مرور صالحين.";
+
+"alert_ok"="حسنا";
+"loading"="جار التحميل...";
+"forgot_password_link"="لقد أرسلنا إليك رسالة إلكترونية تتضمن رابطا لإعادة تعيين كلمة المرور.";
+"Invalid Email Id."="معرف البريد الإلكتروني غير صالح.";
+"network_error"="الإنترنت غير متوفر";
+"Network Error"="خطأ في الشبكة";
+"User is not found"="لم يتم العثور على المستخدم";
+"Alert !"="محزر !";
+"password must be atleast 6 character long."="يجب أن تكون كلمة المرور على الأقل 6 حرف طويل.";
+"logout_alert_message"="هل تريد الخروج الآن؟";
+"Yes"="نعم فعلا";
+"No"="لا";
+"No Cars Available"="لا تتوفر سيارات";
+"Cars Available"="السيارات المتاحة";
+"Please Enter Destination address"="الرجاء إدخال عنوان الوجهة";
+"No Driver Found"="لم يتم العثور على برنامج تشغيل";
+"Please select address inside the country."="يرجى تحديد عنوان داخل البلد.";
+"Worng Destination Address."="عنوان ورنغ الوجهة.";
+"Loading Route..."="جار تحميل المسار ...";
+"min"="الدقائق";
+"mobile_alert"="الرجاء إدخال رقم جوال صالح.";
+"firstname_alert"="يرجى ادخال الاسم الاول.";
+"lastname_alert"="الرجاء إدخال اسم العائلة.";
+"trip_status"="حالة الرحلة";
+"Profile Updated" = "تم تحديث الملف الشخصي بنجاح.";
+
+"Password Updated" = "تم تحديث كلمة السر بنجاح.";
+"Password alert" = "الرجاء إدخال كلمة مرور صالحة.";
+"Password_old_alert" = "الرجاء إدخال كلمة المرور القديمة.";
+"password not matching" = "كلمة المرور ليست مطابقة.";
+"pay_with"     =         "ادفع عن طريق";
+"Paypay_Payment"   =     "الدفع باي بال";
+"Cash_On_Hand"      =    "النقد في الصندوق";
+"Cancel"           =      "إلغاء";
+"Enter_Promo_Code"   =    "إدخال الرمز الترويجي";
+"Successfully_Updated"  =   "تم التحديث بنجاح.";
+"Please enter atleast one Contact"  =   "يرجى إدخال أتليست واحد الاتصال.";
+"Please fill all the fields."   =  "رجاء إملأ كافة الحقول.";
+"permission_denied"=      "تم رفض إذن التطبيق.";
+"location_turn_on"=      "لإعادة تمكين، يرجى الذهاب إلى إعدادات وتشغيل خدمة الموقع لهذا التطبيق.";
+"Contact Service Provider" = "لقد وصلت إلى حد الاستعلام اليومي. يرجى الاتصال بمزود الخدمة.";
+"Terms_Conditions" = "تعليمات الاستخدام";
+"Share" = "شارك";
+"Deactivate_Acc" = "عطل";
+"Url_Cannot_Open" = "لا يمكن فتح عنوان ورل الآن";
+"Support" = "الدعم";
+"Config_Mail" = "يرجى تهيئة بريدك الإلكتروني";
+"Deactivate_Alert" = "هل تريد إلغاء تنشيط حسابك؟";
+
+"Cash_On_Hand" = "النقد في الصندوق";
+"trip_status" = "حالة الرحلة";
+"Unmatch Country"="يجب أن يكون البلد نفسه لبيك اب وإسقاط الموقع";
+"SOS" ="SOS";
+"Promo Code Applied:" ="Promo Code Applied:";
+"MESSAGE_REJECTED"= "رفض السائق طلب سيارة أجرة.";
+"MESSAGE_ACCEPTED"= "تم تأكيد طلب تاكسي.";
+"MESSAGE_END"=      "انتهت رحلتك.";
+"MESSAGE_ARRIVE"=      "وسيصل تاكسي قريبا.";
+"MESSAGE_BEGIN"=      "بدأت رحلتك.";
+"MESSAGE_DRIVER_CANCEL" =      "ألغى برنامج التشغيل الرحلة.";
+"MESSAGE_PAID"=      "لقد دفعت بنجاح.";
+"MESSAGE_CASH"=      "يرجى جمع النقدية من رايدر.";
+"MESSAGE_PAYPAL"=      "رايدر يدفع من خلال باي بال.";
+
+"Trip_Confirmed" ="Your Trip Request has been confirmed. Get Ready";
+"Driver_Busy" ="Driver is busy. Try again";
+"Warning!"="Warning!";
